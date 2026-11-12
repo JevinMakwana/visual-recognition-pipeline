@@ -5,4 +5,5 @@ Pillow>=9.5
 torch>=2.1
 torchvision>=0.16
 ipykernel>=6.0
+gdown>=5.0
 
